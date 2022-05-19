@@ -1,4 +1,4 @@
-//내적
+//LV1_내적
 #include <string>
 #include <vector>
 

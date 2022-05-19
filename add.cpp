@@ -1,4 +1,4 @@
-//없는 숫자 더하기
+//LV1_없는 숫자 더하기
 #include <iostream>
 #include <vector>
 using namespace std;
