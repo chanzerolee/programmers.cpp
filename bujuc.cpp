@@ -1,3 +1,4 @@
+//LV1 부족한 금액 계산하기
 using namespace std;
 
 long long solution(int price, int money, int count)
